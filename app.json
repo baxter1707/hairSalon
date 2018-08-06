@@ -1,0 +1,7 @@
+{
+  "name":"Southern Fringe Hair",
+  "description":"Custom made Hair Salon website",
+  "repository": "",
+  "keywords": ["node", "express"],
+  "image": "heroku/nodejs"
+}
